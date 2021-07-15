@@ -9,10 +9,10 @@
         },
         {
             "id": 1,
-            "description": "Guns",
+            "description": "Coursera Certificate",
             "external_url": "https://nmims.edu",
-            "image": "https://gateway.pinata.cloud/ipfs/QmSoEZR5eQccfqMrkTR279jcxPsfo9pGpZxh7dc4xhxbzd",
-            "name": "M4A1"
+            "image": "https://gateway.pinata.cloud/ipfs/QmRjxv12Wg2ejCZoRXQrbQawtnT8LUspHcWdYjMsVCd11z",
+            "name": "Blockchain Basics"
         },
         {
             "id": 2,
@@ -29,7 +29,7 @@
             "name": "AWP"
         },
         {
-            "id": 4
+            "id": 4,
             "description": "Guns",
             "external_url": "https://nmims.edu",
             "image": "https://ipfs.io/ipfs/QmaNHLnJPHPXr81ASBcb7pDByiVJAu6Jyvhh8LeBfPmb2j?filename=Flickr_-_Steve_Z_-_Cobray_M11-removebg-preview.png",
